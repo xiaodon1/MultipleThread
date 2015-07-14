@@ -1,0 +1,30 @@
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\bin\Debug\Mystify.exe.config
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\obj\Debug\Mystify.csprojResolveAssemblyReference.cache
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\obj\Debug\Mystify.Form1.resources
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\obj\Debug\Mystify.Properties.Resources.resources
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\obj\Debug\Mystify.csproj.GenerateResource.Cache
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\bin\Debug\Mystify.exe
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\bin\Debug\Mystify.pdb
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\obj\Debug\Mystify.exe
+E:\学习\2014 fall\Window Mobile\Assignment5\Mystify\Mystify\obj\Debug\Mystify.pdb
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\bin\Debug\Mystify.exe.config
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\obj\Debug\Mystify.exe
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\obj\Debug\Mystify.pdb
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\bin\Debug\Mystify.exe
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\bin\Debug\Mystify.pdb
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\obj\Debug\Mystify.csprojResolveAssemblyReference.cache
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\obj\Debug\Mystify.Form1.resources
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\obj\Debug\Mystify.Properties.Resources.resources
+C:\Users\Xmeng-cc\Desktop\Assignment5\Mystify\Mystify\obj\Debug\Mystify.csproj.GenerateResource.Cache
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\bin\Debug\Mystify.exe.config
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\obj\Debug\Mystify.exe
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\obj\Debug\Mystify.pdb
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\bin\Debug\Mystify.exe
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\bin\Debug\Mystify.pdb
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\obj\Debug\Mystify.csprojResolveAssemblyReference.cache
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\obj\Debug\Mystify.Form1.resources
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\obj\Debug\Mystify.Properties.Resources.resources
+C:\Users\Xmeng-cc\Desktop\Xiaodong Meng_A5\Mystify\Mystify\obj\Debug\Mystify.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\github Update\WindowMobile\Xiaodong Meng_A5\Mystify\Mystify\bin\Debug\Mystify.exe.config
+C:\Users\Administrator\Desktop\github Update\WindowMobile\Xiaodong Meng_A5\Mystify\Mystify\obj\Debug\Mystify.exe
+C:\Users\Administrator\Desktop\github Update\WindowMobile\Xiaodong Meng_A5\Mystify\Mystify\obj\Debug\Mystify.pdb
